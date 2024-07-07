@@ -1,0 +1,11 @@
+[1]张博雅. 核电站常规液态流出物中核素在近海的迁移研究[D].华北电力大学(北京),2021.DOI:10.27140/d.cnki.ghbbu.2021.000423.//近海水流方向和风向相同
+
+[2]万一品,汪子睿,贾洁,马志宁.装载机动臂结构力学分析与拓扑优化设计[J].机械设计,2021,38(12):25-30.DOI:10.13 841/j.cnki.jxsj.2021.12.005.//力学分析
+
+[3]Heng, S.Y., Ridwan, W.M., Kumar, P. et al. Artificial neural network model with different backpropagation algorithms and meteorological data for solar radiation prediction. Sci Rep 12, 10457 (2022). https://doi.org/10.1038/s41598-022-13532-3//神经网络
+
+[4]Pu, L., Li, Y., Gao, P. et al. A photosynthetic rate prediction model using improved RBF neural network. Sci Rep 12, 9563 (2022). https://doi.org/10.1038/s41598-022-12932-9//神经网络
+
+[5]Babanezhad, M., Behroyan, I., Nakhjiri, A.T. et al. Investigation on performance of particle swarm optimization (PSO) algorithm based fuzzy inference system (PSOFIS) in a combination of CFD modeling for prediction of fluid flow. Sci Rep 11, 1505 (2021). https://doi.org/10.1038/s41598-021-81111-z//PSO粒子群
+
+[6]Lyu, C., Zhang, Hx., Liu, S. et al. Fishing capacity evaluation of fishing vessel based on cloud model. Sci Rep 12, 8976 (2022). https://doi.org/10.1038/s41598-022-12852-8//层次分析法
